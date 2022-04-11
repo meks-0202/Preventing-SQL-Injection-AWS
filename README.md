@@ -52,7 +52,7 @@ Before going to the walkthrough, let's have a look at the basics for this projec
 
 <img src='https://github.com/meks-0202/Preventing-SQL-Injection-AWS/blob/main/Assests/1.png' align="middle">
 
-### Walkthrough
+## Walkthrough
 ### 1) Launching Instances
 Create 2 instances in EC2 both with 'Amazon Linux 2 AMI' (image) and instance type 't2 micro'.
 <img src="https://github.com/meks-0202/Preventing-SQL-Injection-AWS/blob/main/Assests/instance%201.png"> <img src="https://github.com/meks-0202/Preventing-SQL-Injection-AWS/blob/main/Assests/instance2.png">

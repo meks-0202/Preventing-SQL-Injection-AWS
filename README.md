@@ -1,6 +1,6 @@
 # Preventing SQL Injection, Geo Location and Query String
 
-### In this project I tried to implement AWS WAF with ALB to block SQL Injection, Geo Location and Query string. For this I created an Application Load Balancer, the Elastic load balancer automatically distributes the incoming appliication traffic accross 2 EC2 instances. After this I created a set of rules to block acess from certain geo locations, SQL Injection and block certain query string parameters.
+### In this project I tried to implement AWS WAF with ALB to block SQL Injection, Geo Location and Query string. For this I created an Application Load Balancer, the Elastic load balancer automatically distributes the incoming appliication traffic accross 2 EC2 instances. After this I created a set of rules to block access from certain geo locations, SQL Injection and block certain query string parameters.
 
 Before going to the walkthrough, let's have a look at the basics for this project.
 ## AWS WAF
